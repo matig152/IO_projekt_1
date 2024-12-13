@@ -4,6 +4,6 @@
  - najlbliższego sąsiada (Mateusz)
  - wspinaczki z multistartem (Szymon)
  - symulowanego wyżarzania (Radek)
- - przeszukiwanie Tabu ( )
+ - przeszukiwanie Tabu (Michał)
  - algorytmy genetyczne (Mateusz)
  - dowolny dodatkowy algorytm? ( )
