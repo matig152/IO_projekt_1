@@ -3,7 +3,7 @@
 # Do zrobienia
  - najlbliższego sąsiada (Mateusz)
  - wspinaczki z multistartem (Szymon)
- - symulowanego wyrzażania ( )
- - przeszukiwanie Tabu ( )
+ - symulowanego wyżarzania (Radek)
+ - przeszukiwanie Tabu (Michał)
  - algorytmy genetyczne (Mateusz)
  - dowolny dodatkowy algorytm? ( )
