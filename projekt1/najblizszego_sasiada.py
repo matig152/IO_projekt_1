@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 
-def iterated_hill_climb_solver(dist):
+def closest_neighbour_solver(dist):
     # kolejności przy startach z kolejnych miast
     ordering = np.zeros((len(dist), len(dist)))
 
@@ -61,16 +61,16 @@ def iterated_hill_climb_solver(dist):
 
 # 29 danych
 dist29 = np.loadtxt('data29.csv', delimiter=';')
-iterated_hill_climb_solver(dist29)
+closest_neighbour_solver(dist29)
 
 # 48 danych
 dist48 = np.loadtxt('data48.csv', delimiter=';')
-iterated_hill_climb_solver(dist48)
+closest_neighbour_solver(dist48)
 
 # 76 danych
 dist76 = np.loadtxt('data76.csv', delimiter=';')
-iterated_hill_climb_solver(dist76)
+closest_neighbour_solver(dist76)
 
 # 127 danych
 dist127 = np.loadtxt('data127.csv', delimiter=';')
-iterated_hill_climb_solver(dist127)
+closest_neighbour_solver(dist127)

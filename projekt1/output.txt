@@ -1,0 +1,6 @@
+Script started on 2025-01-01 22:55:16+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="90" LINES="31"]
+]0;mateusz@mateusz-Latitude-E6320: ~/IO_projekt_1/projekt1[01;32mmateusz@mateusz-Latitude-E6320[00m:[01;34m~/IO_projekt_1/projekt1[00m$ exit
+exit
+
+Script done on 2025-01-01 22:55:22+01:00 [COMMAND_EXIT_CODE="0"]
+

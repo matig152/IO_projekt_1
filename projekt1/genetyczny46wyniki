@@ -1,0 +1,716 @@
+4, 3, 25, 9, 41, 1, 28, 4, 47] 
+Długość: 12155.0
+Czas wykonywania algorytmu: 185.21 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.63 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11943.0
+Czas wykonywania algorytmu: 185.65 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.78 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 45, 37, 8, 7, 0, 15, 21, 39, 14, 32, 19, 11, 10, 22, 2, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12256.0
+Czas wykonywania algorytmu: 184.8 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.85 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 20, 12, 10, 22, 2, 21, 15, 40, 33, 13, 24, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11914.0
+Czas wykonywania algorytmu: 184.86 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.77 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 2, 21, 15, 40, 33, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12149.0
+Czas wykonywania algorytmu: 184.79 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.97 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 45, 32, 14, 39, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11977.0
+Czas wykonywania algorytmu: 184.99 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.43 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 40, 33, 22, 12, 20, 46, 19, 10, 2, 21, 15, 0, 7, 8, 39, 14, 11, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12584.0
+Czas wykonywania algorytmu: 184.45 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.7 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 19, 11, 10, 46, 20, 12, 22, 2, 21, 15, 40, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 11952.0
+Czas wykonywania algorytmu: 184.72 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.77 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 10, 22, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 3, 25, 34, 44, 9, 23] 
+Długość: 12047.0
+Czas wykonywania algorytmu: 184.78 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.61 s
+Najlepsza znaleziona trasa: [23, 9, 34, 44, 25, 3, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 45, 14, 39, 0, 7, 8, 37, 30, 43, 17, 6, 27, 29, 42, 16, 26, 18, 36, 5, 35] 
+Długość: 12005.0
+Czas wykonywania algorytmu: 184.63 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.18 s
+Najlepsza znaleziona trasa: [23, 44, 34, 25, 3, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12205.0
+Czas wykonywania algorytmu: 185.2 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.34 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 2, 22, 10, 12, 20, 46, 19, 32, 11, 14, 39, 21, 15, 0, 7, 8, 37, 45, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12288.0
+Czas wykonywania algorytmu: 184.36 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.76 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 8, 7, 0, 39, 10, 46, 20, 12, 22, 2, 21, 15, 40, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12217.0
+Czas wykonywania algorytmu: 184.79 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.75 s
+Najlepsza znaleziona trasa: [28, 1, 3, 25, 34, 44, 9, 23, 41, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 2, 15, 21, 22, 10, 46, 19, 32, 11, 14, 39, 8, 0, 7, 37, 45, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12333.0
+Czas wykonywania algorytmu: 184.77 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.3 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 32, 45, 30, 37, 7, 8, 39, 14, 11, 19, 10, 22, 2, 21, 0, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 9, 44, 34, 3, 25, 23] 
+Długość: 12631.0
+Czas wykonywania algorytmu: 185.32 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.84 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 10, 12, 20, 46, 19, 11, 39, 0, 7, 8, 37, 14, 32, 45, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12418.0
+Czas wykonywania algorytmu: 183.86 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 182.8 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 12, 20, 46, 10, 11, 19, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 29, 42, 16, 26, 18, 36, 5, 27, 35] 
+Długość: 11978.0
+Czas wykonywania algorytmu: 182.82 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 180.15 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11863.0
+Czas wykonywania algorytmu: 180.17 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 181.44 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 2, 22, 10, 12, 20, 46, 19, 32, 11, 14, 39, 21, 15, 0, 7, 8, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12485.0
+Czas wykonywania algorytmu: 181.45 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 181.73 s
+Najlepsza znaleziona trasa: [29, 42, 26, 16, 18, 36, 5, 27, 35, 6, 17, 43, 45, 30, 37, 7, 0, 8, 39, 14, 32, 19, 11, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 3, 25, 34, 44, 9, 23] 
+Długość: 12075.0
+Czas wykonywania algorytmu: 181.75 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.02 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 29, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 0, 7, 15, 21, 2, 40, 33, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12192.0
+Czas wykonywania algorytmu: 185.03 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.61 s
+Najlepsza znaleziona trasa: [38, 31, 23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 24, 13, 33, 40, 15, 21, 2, 22, 12, 20, 46, 10, 39, 14, 11, 19, 32, 45, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 11770.0
+Czas wykonywania algorytmu: 184.62 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.76 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 8, 7, 0, 39, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 9, 44, 34, 3, 25, 23] 
+Długość: 12294.0
+Czas wykonywania algorytmu: 184.78 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.39 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 6, 17, 35, 32, 45, 43, 30, 37, 7, 0, 8, 39, 14, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 3, 25, 34, 44, 9, 23] 
+Długość: 12051.0
+Czas wykonywania algorytmu: 185.41 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.27 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 6, 35, 17, 43, 45, 30, 37, 7, 0, 8, 39, 14, 32, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 41, 23, 9, 44, 34, 3, 25, 1, 28] 
+Długość: 12001.0
+Czas wykonywania algorytmu: 184.29 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.8 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 37, 7, 0, 8, 39, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 41, 23, 9, 44, 34, 3, 25, 1, 28] 
+Długość: 12147.0
+Czas wykonywania algorytmu: 184.82 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.47 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 45, 32, 19, 46, 10, 11, 14, 39, 8, 37, 7, 0, 15, 21, 2, 40, 33, 22, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 25, 3, 34, 44, 9, 23, 41] 
+Długość: 12198.0
+Czas wykonywania algorytmu: 184.49 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.9 s
+Najlepsza znaleziona trasa: [5, 36, 18, 26, 16, 42, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 10, 11, 19, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 23, 44, 34, 3, 25, 9] 
+Długość: 12453.0
+Czas wykonywania algorytmu: 184.91 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.19 s
+Najlepsza znaleziona trasa: [23, 9, 34, 44, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11867.0
+Czas wykonywania algorytmu: 185.21 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.82 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11943.0
+Czas wykonywania algorytmu: 184.84 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.35 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 22, 33, 40, 2, 10, 46, 19, 11, 14, 39, 21, 15, 0, 7, 8, 37, 30, 45, 32, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12710.0
+Czas wykonywania algorytmu: 184.38 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.72 s
+Najlepsza znaleziona trasa: [25, 3, 34, 44, 9, 23, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12268.0
+Czas wykonywania algorytmu: 184.74 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.93 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 14, 39, 8, 0, 7, 37, 45, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11983.0
+Czas wykonywania algorytmu: 184.95 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.41 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 12, 20, 46, 10, 22, 13, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 35, 6, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12023.0
+Czas wykonywania algorytmu: 184.43 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.89 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 19, 11, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 44, 34, 9, 23] 
+Długość: 11854.0
+Czas wykonywania algorytmu: 184.91 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.41 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 46, 10, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 23, 44, 34, 3, 25, 9] 
+Długość: 12290.0
+Czas wykonywania algorytmu: 184.43 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.37 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 8, 39, 14, 45, 32, 19, 11, 10, 46, 20, 12, 24, 13, 22, 2, 0, 7, 21, 15, 40, 33, 28, 1, 4, 47, 38, 31, 23, 9, 44, 34, 3, 25, 41] 
+Długość: 12532.0
+Czas wykonywania algorytmu: 185.39 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.96 s
+Najlepsza znaleziona trasa: [28, 1, 41, 25, 3, 34, 44, 9, 23, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 2, 15, 21, 22, 10, 11, 19, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12332.0
+Czas wykonywania algorytmu: 183.97 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.9 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 39, 8, 37, 7, 0, 21, 15, 40, 33, 2, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11981.0
+Czas wykonywania algorytmu: 184.91 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.99 s
+Najlepsza znaleziona trasa: [9, 25, 3, 34, 44, 23, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 11, 10, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 14, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 42, 16, 26, 18, 36, 5] 
+Długość: 12631.0
+Czas wykonywania algorytmu: 185.01 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.71 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 20, 12, 10, 22, 2, 21, 15, 40, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 23, 44, 34, 3, 25, 9] 
+Długość: 12278.0
+Czas wykonywania algorytmu: 184.73 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.16 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 22, 10, 46, 19, 32, 11, 14, 39, 2, 21, 15, 0, 7, 8, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12354.0
+Czas wykonywania algorytmu: 184.18 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.06 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 45, 32, 19, 11, 14, 39, 2, 21, 15, 40, 33, 13, 22, 10, 46, 20, 12, 24, 38, 28, 1, 4, 47, 41, 9, 25, 3, 44, 34, 23, 31] 
+Długość: 12481.0
+Czas wykonywania algorytmu: 184.07 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.68 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 10, 46, 20, 12, 22, 2, 21, 15, 40, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12285.0
+Czas wykonywania algorytmu: 184.7 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.91 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 9, 23, 41, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 10, 12, 20, 46, 19, 11, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 11912.0
+Czas wykonywania algorytmu: 184.93 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.95 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 11989.0
+Czas wykonywania algorytmu: 183.97 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.11 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 38, 31, 20, 46, 12, 24, 13, 10, 22, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12349.0
+Czas wykonywania algorytmu: 185.13 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.34 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 25, 3, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 2, 39, 8, 7, 0, 21, 15, 40, 33, 22, 10, 46, 19, 11, 14, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 26, 18, 16, 42] 
+Długość: 12318.0
+Czas wykonywania algorytmu: 184.36 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.1 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 33, 13, 12, 20, 46, 10, 22, 2, 40, 15, 21, 0, 7, 8, 37, 39, 14, 11, 19, 32, 45, 30, 43, 17, 6, 27, 29, 42, 16, 26, 18, 36, 5, 35] 
+Długość: 12375.0
+Czas wykonywania algorytmu: 184.11 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.28 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 10, 12, 20, 46, 19, 32, 11, 14, 39, 8, 0, 7, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12073.0
+Czas wykonywania algorytmu: 184.3 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 187.36 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 39, 14, 11, 19, 32, 45, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11963.0
+Czas wykonywania algorytmu: 187.39 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.6 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 45, 32, 19, 11, 14, 39, 22, 10, 46, 20, 12, 2, 21, 15, 40, 33, 13, 24, 31, 38, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12381.0
+Czas wykonywania algorytmu: 185.62 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.06 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 37, 7, 0, 8, 39, 14, 32, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11983.0
+Czas wykonywania algorytmu: 185.08 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.67 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 46, 10, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 11942.0
+Czas wykonywania algorytmu: 184.7 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.05 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 33, 40, 15, 21, 2, 39, 0, 7, 8, 37, 14, 11, 19, 32, 45, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12276.0
+Czas wykonywania algorytmu: 184.06 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.81 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 22, 10, 46, 20, 12, 13, 40, 33, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12392.0
+Czas wykonywania algorytmu: 184.82 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.67 s
+Najlepsza znaleziona trasa: [44, 34, 3, 25, 9, 23, 41, 1, 28, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 11, 19, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12192.0
+Czas wykonywania algorytmu: 184.69 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.26 s
+Najlepsza znaleziona trasa: [23, 9, 34, 44, 3, 25, 41, 1, 28, 4, 47, 31, 38, 33, 40, 15, 21, 2, 13, 24, 22, 10, 12, 20, 46, 19, 11, 14, 39, 0, 7, 8, 37, 32, 45, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12680.0
+Czas wykonywania algorytmu: 184.28 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.71 s
+Najlepsza znaleziona trasa: [31, 23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 24, 13, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 19, 46, 20, 12, 22, 10, 11, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11850.0
+Czas wykonywania algorytmu: 184.73 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.66 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 41, 23, 9, 44, 34, 25, 3, 1, 28] 
+Długość: 12009.0
+Czas wykonywania algorytmu: 184.68 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.3 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 39, 37, 8, 7, 0, 21, 15, 40, 33, 2, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12084.0
+Czas wykonywania algorytmu: 185.32 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.21 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 22, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 10, 46, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12040.0
+Czas wykonywania algorytmu: 184.22 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.43 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 25, 3, 41, 1, 28, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 11, 19, 32, 45, 14, 39, 0, 7, 8, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11858.0
+Czas wykonywania algorytmu: 184.45 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.98 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 46, 19, 11, 10, 22, 12, 24, 13, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11940.0
+Czas wykonywania algorytmu: 185.0 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.83 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 9, 23, 41, 4, 47, 38, 31, 20, 12, 24, 13, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 14, 11, 10, 46, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 11924.0
+Czas wykonywania algorytmu: 184.84 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.47 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 40, 33, 13, 24, 22, 10, 46, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12053.0
+Czas wykonywania algorytmu: 185.48 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.78 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 12, 20, 46, 10, 11, 19, 32, 14, 45, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12074.0
+Czas wykonywania algorytmu: 183.8 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.53 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 8, 7, 0, 15, 21, 39, 10, 46, 20, 12, 22, 2, 40, 33, 13, 24, 38, 31, 47, 4, 28, 41, 23, 9, 44, 34, 3, 25, 1] 
+Długość: 12862.0
+Czas wykonywania algorytmu: 183.55 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.5 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 1, 41, 31, 38, 47, 4, 28, 24, 20, 12, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 32, 11, 14, 39, 8, 0, 7, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12843.0
+Czas wykonywania algorytmu: 184.52 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.96 s
+Najlepsza znaleziona trasa: [29, 26, 16, 42, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 8, 7, 0, 39, 10, 22, 2, 21, 15, 40, 28, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 41, 1, 25, 3, 34, 44, 9, 23] 
+Długość: 12740.0
+Czas wykonywania algorytmu: 183.97 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.42 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 2, 33, 40, 15, 21, 39, 14, 11, 19, 32, 45, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12158.0
+Czas wykonywania algorytmu: 184.43 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.33 s
+Najlepsza znaleziona trasa: [23, 44, 34, 9, 41, 25, 3, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 22, 33, 40, 2, 21, 15, 7, 0, 39, 10, 46, 19, 11, 14, 32, 45, 8, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12769.0
+Czas wykonywania algorytmu: 184.35 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.56 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 6, 35, 17, 43, 30, 45, 32, 14, 11, 19, 46, 10, 39, 8, 37, 7, 0, 21, 15, 40, 33, 2, 22, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 9, 44, 34, 3, 25, 23] 
+Długość: 12263.0
+Czas wykonywania algorytmu: 184.58 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.61 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 32, 45, 30, 37, 8, 7, 0, 15, 21, 39, 14, 11, 19, 46, 10, 22, 2, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 9, 44, 34, 3, 25, 23] 
+Długość: 12468.0
+Czas wykonywania algorytmu: 184.63 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.24 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 46, 10, 22, 12, 24, 13, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11912.0
+Czas wykonywania algorytmu: 184.26 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.1 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 9, 23, 41, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 39, 0, 7, 8, 14, 11, 46, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12179.0
+Czas wykonywania algorytmu: 185.12 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.4 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 14, 32, 45, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11863.0
+Czas wykonywania algorytmu: 184.42 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.45 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 42, 16, 26, 18, 36, 5] 
+Długość: 12235.0
+Czas wykonywania algorytmu: 185.46 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.73 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 40, 33, 10, 46, 20, 12, 22, 13, 24, 38, 31, 23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47] 
+Długość: 12129.0
+Czas wykonywania algorytmu: 184.74 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.36 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 39, 14, 11, 19, 32, 45, 7, 0, 8, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12058.0
+Czas wykonywania algorytmu: 184.38 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.95 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 40, 33, 13, 22, 10, 46, 20, 12, 24, 38, 31, 4, 47, 41, 23, 9, 44, 34, 3, 25, 1, 28] 
+Długość: 12135.0
+Czas wykonywania algorytmu: 183.97 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.47 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 45, 32, 14, 39, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 44, 34, 9, 23] 
+Długość: 12068.0
+Czas wykonywania algorytmu: 185.48 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.14 s
+Najlepsza znaleziona trasa: [36, 18, 26, 16, 42, 29, 5, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 45, 32, 14, 11, 19, 46, 10, 39, 21, 15, 40, 33, 2, 22, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12318.0
+Czas wykonywania algorytmu: 184.15 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.87 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 33, 40, 13, 12, 20, 46, 10, 22, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12438.0
+Czas wykonywania algorytmu: 184.89 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.23 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 5, 29, 42, 16, 26, 18, 36] 
+Długość: 12094.0
+Czas wykonywania algorytmu: 184.25 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.14 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 14, 32, 19, 11, 39, 8, 7, 0, 15, 21, 2, 22, 10, 46, 12, 20, 31, 38, 24, 13, 33, 40, 28, 4, 47, 41, 1, 25, 3, 44, 34, 9, 23] 
+Długość: 12560.0
+Czas wykonywania algorytmu: 185.16 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.79 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 9, 23, 41, 4, 47, 31, 38, 24, 13, 33, 22, 12, 20, 46, 10, 39, 2, 40, 15, 21, 0, 7, 8, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 42, 16, 26, 18, 36, 5] 
+Długość: 12594.0
+Czas wykonywania algorytmu: 184.81 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.01 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 9, 23, 41, 4, 47, 31, 38, 20, 46, 10, 22, 12, 24, 13, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12078.0
+Czas wykonywania algorytmu: 185.02 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.91 s
+Najlepsza znaleziona trasa: [28, 1, 3, 25, 34, 44, 9, 23, 41, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 11, 19, 32, 45, 14, 39, 0, 7, 8, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11888.0
+Czas wykonywania algorytmu: 183.93 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.11 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 39, 8, 37, 7, 0, 15, 21, 2, 40, 33, 13, 24, 12, 22, 10, 46, 20, 31, 38, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 11994.0
+Czas wykonywania algorytmu: 185.13 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.91 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 37, 7, 0, 8, 39, 10, 46, 20, 12, 22, 2, 21, 15, 40, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12211.0
+Czas wykonywania algorytmu: 184.93 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.37 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 37, 7, 0, 8, 39, 10, 46, 20, 12, 13, 22, 2, 21, 15, 40, 33, 24, 38, 31, 47, 4, 28, 1, 41, 3, 25, 34, 44, 9, 23] 
+Długość: 12442.0
+Czas wykonywania algorytmu: 184.39 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.48 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 12, 20, 46, 10, 39, 14, 11, 19, 32, 45, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12328.0
+Czas wykonywania algorytmu: 184.5 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.21 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 14, 39, 8, 0, 7, 37, 30, 45, 32, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12008.0
+Czas wykonywania algorytmu: 184.23 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.32 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 11, 14, 37, 8, 7, 0, 39, 10, 46, 12, 22, 2, 21, 15, 40, 33, 13, 24, 20, 31, 38, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12353.0
+Czas wykonywania algorytmu: 185.33 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.24 s
+Najlepsza znaleziona trasa: [23, 9, 34, 44, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 14, 39, 8, 0, 7, 37, 30, 45, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12055.0
+Czas wykonywania algorytmu: 184.25 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.25 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 45, 30, 37, 8, 7, 0, 39, 14, 11, 32, 19, 46, 10, 22, 2, 21, 15, 40, 33, 12, 20, 13, 24, 38, 31, 23, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9] 
+Długość: 12982.0
+Czas wykonywania algorytmu: 184.26 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.67 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11776.0
+Czas wykonywania algorytmu: 184.69 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.97 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 37, 45, 32, 14, 11, 19, 46, 10, 22, 2, 39, 8, 7, 0, 21, 15, 40, 33, 13, 24, 12, 20, 38, 31, 23, 41, 47, 4, 28, 1, 25, 3, 34, 44, 9] 
+Długość: 12510.0
+Czas wykonywania algorytmu: 183.98 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.88 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 20, 12, 10, 22, 2, 21, 15, 40, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11882.0
+Czas wykonywania algorytmu: 184.89 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.35 s
+Najlepsza znaleziona trasa: [41, 25, 3, 34, 44, 23, 9, 1, 28, 4, 47, 31, 38, 24, 12, 13, 33, 40, 15, 21, 2, 22, 10, 20, 46, 19, 32, 11, 14, 39, 0, 7, 8, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12638.0
+Czas wykonywania algorytmu: 184.36 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.28 s
+Najlepsza znaleziona trasa: [35, 5, 36, 18, 26, 16, 42, 29, 27, 6, 17, 43, 32, 45, 30, 37, 8, 7, 0, 39, 14, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 41, 23, 9, 34, 44, 3, 25, 1, 28] 
+Długość: 12103.0
+Czas wykonywania algorytmu: 183.3 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.43 s
+Najlepsza znaleziona trasa: [9, 25, 3, 34, 44, 23, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 22, 10, 12, 20, 46, 19, 11, 14, 39, 2, 40, 15, 21, 0, 7, 8, 37, 30, 43, 45, 32, 35, 17, 6, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12750.0
+Czas wykonywania algorytmu: 184.45 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.34 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 19, 32, 45, 30, 37, 8, 7, 0, 21, 15, 40, 33, 2, 39, 14, 11, 10, 22, 46, 20, 12, 13, 24, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23, 31] 
+Długość: 12101.0
+Czas wykonywania algorytmu: 184.36 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.24 s
+Najlepsza znaleziona trasa: [28, 1, 3, 25, 34, 44, 9, 23, 41, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11891.0
+Czas wykonywania algorytmu: 184.26 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.89 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 9, 23, 41, 4, 47, 31, 38, 24, 13, 22, 12, 20, 46, 10, 33, 40, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 16, 26, 42, 29] 
+Długość: 12366.0
+Czas wykonywania algorytmu: 184.91 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.43 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 8, 7, 0, 15, 21, 2, 39, 14, 45, 32, 11, 19, 46, 10, 22, 40, 33, 13, 12, 24, 20, 31, 38, 47, 4, 28, 1, 41, 3, 25, 34, 44, 9, 23] 
+Długość: 12425.0
+Czas wykonywania algorytmu: 184.45 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.29 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 3, 25, 44, 34, 9, 23] 
+Długość: 11943.0
+Czas wykonywania algorytmu: 184.32 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.32 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 10, 12, 20, 46, 19, 11, 14, 32, 45, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11969.0
+Czas wykonywania algorytmu: 184.34 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.61 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 22, 10, 2, 21, 15, 0, 7, 37, 8, 39, 11, 46, 19, 32, 14, 45, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12764.0
+Czas wykonywania algorytmu: 184.63 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.04 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 33, 40, 13, 12, 20, 46, 10, 22, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12438.0
+Czas wykonywania algorytmu: 184.05 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.25 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 19, 11, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11763.0
+Czas wykonywania algorytmu: 184.26 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.21 s
+Najlepsza znaleziona trasa: [23, 9, 34, 44, 3, 25, 41, 1, 28, 4, 47, 38, 31, 20, 46, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 11, 19, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 29, 5, 18, 36, 26, 16, 42] 
+Długość: 11914.0
+Czas wykonywania algorytmu: 184.23 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.64 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 44, 34, 9, 23] 
+Długość: 11867.0
+Czas wykonywania algorytmu: 184.66 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.74 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 46, 10, 11, 14, 39, 8, 7, 0, 21, 15, 40, 2, 22, 12, 20, 31, 38, 24, 13, 33, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12347.0
+Czas wykonywania algorytmu: 185.76 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.35 s
+Najlepsza znaleziona trasa: [47, 4, 28, 1, 41, 25, 3, 9, 34, 44, 23, 31, 38, 24, 13, 33, 40, 15, 21, 2, 22, 10, 12, 20, 46, 19, 11, 32, 45, 14, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 11850.0
+Czas wykonywania algorytmu: 184.37 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.23 s
+Najlepsza znaleziona trasa: [47, 4, 28, 1, 41, 25, 3, 44, 34, 9, 23, 31, 38, 24, 13, 12, 20, 46, 10, 22, 33, 40, 2, 21, 15, 7, 37, 8, 0, 39, 14, 11, 19, 32, 45, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12159.0
+Czas wykonywania algorytmu: 184.25 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.57 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 25, 3, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12030.0
+Czas wykonywania algorytmu: 184.58 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.09 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 22, 33, 40, 15, 21, 2, 10, 46, 19, 11, 32, 14, 39, 8, 0, 7, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12252.0
+Czas wykonywania algorytmu: 185.11 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.9 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11943.0
+Czas wykonywania algorytmu: 184.92 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.69 s
+Najlepsza znaleziona trasa: [29, 42, 26, 16, 18, 36, 5, 27, 35, 6, 17, 43, 45, 30, 37, 7, 0, 8, 39, 14, 32, 19, 11, 2, 21, 15, 40, 33, 13, 22, 10, 46, 20, 12, 24, 38, 31, 47, 4, 28, 1, 41, 23, 9, 25, 3, 34, 44] 
+Długość: 12767.0
+Czas wykonywania algorytmu: 184.71 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.88 s
+Najlepsza znaleziona trasa: [42, 16, 18, 26, 36, 5, 29, 27, 35, 6, 17, 43, 45, 30, 37, 7, 0, 8, 39, 14, 11, 32, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12010.0
+Czas wykonywania algorytmu: 184.9 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.9 s
+Najlepsza znaleziona trasa: [29, 42, 16, 26, 18, 36, 5, 27, 35, 6, 17, 43, 30, 45, 32, 14, 11, 19, 46, 10, 22, 39, 8, 37, 7, 0, 15, 21, 2, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 41, 23, 9, 44, 34, 3, 25, 1, 28] 
+Długość: 12124.0
+Czas wykonywania algorytmu: 183.92 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.53 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 22, 10, 46, 19, 11, 32, 14, 39, 2, 33, 40, 15, 21, 0, 7, 8, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12069.0
+Czas wykonywania algorytmu: 184.54 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.46 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 45, 32, 14, 39, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 9, 44, 34, 3, 25, 23] 
+Długość: 12197.0
+Czas wykonywania algorytmu: 184.47 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.19 s
+Najlepsza znaleziona trasa: [23, 44, 34, 3, 25, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 33, 40, 2, 22, 12, 20, 46, 10, 11, 19, 32, 14, 39, 21, 15, 0, 7, 8, 37, 30, 45, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12376.0
+Czas wykonywania algorytmu: 185.21 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.7 s
+Najlepsza znaleziona trasa: [28, 1, 41, 25, 3, 34, 44, 9, 23, 31, 38, 47, 4, 40, 33, 13, 24, 12, 20, 46, 10, 22, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 42, 16, 26, 18, 36, 5] 
+Długość: 12333.0
+Czas wykonywania algorytmu: 184.72 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.27 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 40, 33, 22, 10, 46, 20, 12, 13, 24, 38, 31, 47, 4, 28, 1, 3, 25, 34, 44, 9, 41, 23] 
+Długość: 12183.0
+Czas wykonywania algorytmu: 184.29 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.73 s
+Najlepsza znaleziona trasa: [31, 23, 9, 44, 34, 3, 25, 41, 1, 28, 4, 47, 38, 20, 46, 10, 12, 24, 13, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 11717.0
+Czas wykonywania algorytmu: 183.74 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.69 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 31, 38, 24, 13, 12, 20, 46, 10, 22, 2, 33, 40, 15, 21, 0, 7, 37, 8, 39, 14, 11, 19, 32, 45, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 12201.0
+Czas wykonywania algorytmu: 184.71 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 183.92 s
+Najlepsza znaleziona trasa: [28, 1, 25, 3, 34, 44, 23, 9, 41, 4, 47, 38, 31, 20, 12, 24, 13, 33, 40, 15, 21, 2, 22, 10, 46, 19, 11, 14, 32, 45, 39, 8, 0, 7, 37, 30, 43, 17, 6, 35, 27, 5, 36, 18, 26, 16, 42, 29] 
+Długość: 11901.0
+Czas wykonywania algorytmu: 183.94 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.28 s
+Najlepsza znaleziona trasa: [23, 25, 3, 34, 44, 9, 41, 1, 28, 4, 47, 38, 31, 20, 12, 24, 13, 22, 2, 33, 40, 15, 21, 0, 7, 8, 39, 10, 46, 19, 11, 14, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12218.0
+Czas wykonywania algorytmu: 184.29 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.53 s
+Najlepsza znaleziona trasa: [5, 36, 18, 26, 16, 42, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 14, 39, 8, 7, 0, 21, 15, 40, 2, 10, 11, 19, 46, 20, 12, 22, 33, 13, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12454.0
+Czas wykonywania algorytmu: 184.54 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.2 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 6, 35, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 22, 10, 46, 12, 20, 31, 38, 24, 13, 33, 40, 4, 47, 41, 23, 9, 44, 34, 25, 3, 1, 28] 
+Długość: 12468.0
+Czas wykonywania algorytmu: 184.22 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.39 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 46, 10, 11, 14, 39, 8, 7, 0, 21, 15, 40, 33, 2, 22, 13, 24, 12, 20, 38, 31, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12027.0
+Czas wykonywania algorytmu: 184.41 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.38 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 6, 35, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 11, 19, 46, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11785.0
+Czas wykonywania algorytmu: 185.39 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.11 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 40, 33, 13, 22, 10, 46, 20, 12, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12014.0
+Czas wykonywania algorytmu: 185.13 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.57 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 19, 11, 10, 46, 20, 12, 13, 33, 40, 15, 21, 2, 22, 24, 38, 31, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 12043.0
+Czas wykonywania algorytmu: 184.59 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.11 s
+Najlepsza znaleziona trasa: [41, 1, 25, 3, 34, 44, 9, 23, 31, 38, 47, 4, 28, 40, 33, 13, 24, 12, 20, 46, 22, 10, 11, 19, 32, 45, 14, 39, 2, 21, 15, 0, 7, 8, 37, 30, 43, 17, 6, 27, 5, 36, 18, 26, 16, 42, 29, 35] 
+Długość: 12393.0
+Czas wykonywania algorytmu: 184.13 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 185.53 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 45, 32, 19, 14, 37, 8, 7, 0, 15, 21, 39, 11, 46, 10, 22, 2, 40, 33, 13, 24, 12, 20, 31, 38, 47, 4, 28, 1, 41, 9, 25, 3, 34, 44, 23] 
+Długość: 12544.0
+Czas wykonywania algorytmu: 185.55 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.48 s
+Najlepsza znaleziona trasa: [23, 9, 44, 34, 3, 25, 41, 47, 4, 28, 1, 40, 33, 13, 12, 24, 38, 31, 20, 46, 10, 22, 2, 21, 15, 0, 7, 8, 39, 14, 11, 19, 32, 45, 37, 30, 43, 17, 6, 35, 27, 29, 5, 36, 18, 26, 16, 42] 
+Długość: 12310.0
+Czas wykonywania algorytmu: 184.5 s
+Estymowany czas wykonania: 140.0 s
+Iteracja 1000 z 1000, czas wykonywania: 184.76 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 45, 32, 19, 11, 14, 39, 8, 7, 0, 15, 21, 2, 40, 33, 13, 22, 10, 46, 20, 12, 24, 38, 31, 23, 9, 44, 34, 25, 3, 41, 1, 28, 4, 47] 
+Długość: 11931.0
+Czas wykonywania algorytmu: 184.78 s
+
+
+Iteracja 1000 z 1000, czas wykonywania: 185.1 s
+Najlepsza znaleziona trasa: [42, 16, 26, 18, 36, 5, 29, 27, 35, 6, 17, 43, 30, 37, 7, 0, 8, 39, 14, 45, 32, 19, 11, 10, 22, 2, 21, 15, 40, 33, 13, 24, 12, 46, 20, 31, 38, 47, 4, 28, 1, 41, 25, 3, 34, 44, 9, 23] 
+Długość: 11763.0
+mateusz@mateusz-Latitude-E6320:~/IO_projekt_1/projekt1$ script output.txt
+Script started, file is output.txt
+mateusz@mateusz-Latitude-E6320:~/IO_projekt_1/projekt1$ 
