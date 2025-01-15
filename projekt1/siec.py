@@ -25,7 +25,7 @@ n_neurons_in_layer = [7, 5, 3, 1] # liczby neuronów w kolejnych warstwach
 if(n_layers != len(n_neurons_in_layer)):
     print("Nieprawidłowe parametry sieci!")
     exit()
-learning_rate = 0.001 
+learning_rate = 0.00001 
 
 
 # definicja funkcji ReLU
@@ -35,16 +35,16 @@ def ReLU(x):
 # propagacja w przód
 
 # inicializuacja wag
-W_1 = np.random.randn(n_neurons_in_layer[1], n_neurons_in_layer[0])
-W_2 = np.random.randn(n_neurons_in_layer[2], n_neurons_in_layer[1])
-W_3 = np.random.randn(n_neurons_in_layer[3], n_neurons_in_layer[2]) 
+W_1 = np.random.randn(n_neurons_in_layer[1], n_neurons_in_layer[0]) * 1
+W_2 = np.random.randn(n_neurons_in_layer[2], n_neurons_in_layer[1]) * 1
+W_3 = np.random.randn(n_neurons_in_layer[3], n_neurons_in_layer[2]) * 1
 # inicjalizacja obciążeń
-B_1 = np.random.randn(n_neurons_in_layer[1], 1)
-B_2 = np.random.randn(n_neurons_in_layer[2], 1)
-B_3 = np.random.randn(n_neurons_in_layer[3], 1)
+B_1 = np.random.randn(n_neurons_in_layer[1], 1) * 0.0
+B_2 = np.random.randn(n_neurons_in_layer[2], 1) * 0.01
+B_3 = np.random.randn(n_neurons_in_layer[3], 1) * 0.01
 
 
-for i in range(10):
+for i in range(100000):
     # warstwa 2
     Z_1 = np.dot(W_1, X) + B_1
     A_1 = ReLU(Z_1)
@@ -74,9 +74,9 @@ for i in range(10):
     d_error_d_z_3 = d_error_d_y_hat * d_y_hat_d_z_3
 
     d_error_d_W_3 = np.dot(d_error_d_z_3, A_2.T)
-    print(f'Gradient po W_3: {d_error_d_W_3[0:4]}')
+    #print(f'Gradient po W_3: {d_error_d_W_3[0:4]}')
     d_error_d_B_3 = np.sum(d_error_d_z_3, axis=1, keepdims=True)
-    print(f'Gradient po B_3: {d_error_d_B_3}')
+    #print(f'Gradient po B_3: {d_error_d_B_3}')
 
     d_error_d_A_2 = np.dot(W_3.T, d_error_d_z_3)
     d_error_d_z_2 = d_error_d_A_2 * d_ReLU(Z_2)
@@ -98,11 +98,23 @@ for i in range(10):
     B_1 = B_1 - learning_rate * d_error_d_B_1
     B_2 = B_2 - learning_rate * d_error_d_B_2
     B_3 = B_3 - learning_rate * d_error_d_B_3
+    total_error = np.sum(error(Y, Y_hat))
+    
+    print("\r", end="")
+    print(f'Iteracja: {i+1}; Całkowity błąd w zbiorze uczącym: {total_error}', end="")
 
 
-print(f'Przewidywania: {Y_hat[0][0:4]}')
-print(f'Rzeczywiste wartości: {Y[0:4]}')
-total_error = np.sum(error(Y, Y_hat))
-print(f'\nCałkowity błąd w zbiorze uczącym: {total_error}')
+# print(f'\nPrzewidywania: {Y_hat[0][0:4]}')
+# print(f'Rzeczywiste wartości: {Y[0:4]}')
+
+print(f'\nMSE: {1/800 * np.sum((Y- Y_hat)**2)}')
+
+max_house_price = col_max[0][7]
+min_house_price = col_min[0][7]
 
 
+house_price_real = min_house_price + (max_house_price - min_house_price) * Y
+house_price_predictions = min_house_price + (max_house_price - min_house_price) * Y_hat
+
+print(f'\nPrzewidywania: {house_price_predictions[0][0:5]}')
+print(f'Rzeczywiste wartości: {house_price_real[0:5]}')
